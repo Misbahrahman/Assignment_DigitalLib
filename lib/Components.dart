@@ -80,7 +80,7 @@ class Book_tile extends StatelessWidget {
                           style: TextStyle(fontWeight: FontWeight.bold),
                         ),
                       ),
-                      color: Colors.orange,
+                      color: Colors.blue,
                     ),
                     borderRadius: BorderRadius.circular(10),
                   ),
